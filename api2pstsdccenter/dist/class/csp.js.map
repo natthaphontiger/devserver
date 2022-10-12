@@ -1,0 +1,1 @@
+{"version":3,"file":"csp.js","sourceRoot":"","sources":["../../src/class/csp.ts"],"names":[],"mappings":";;;AAAA,MAAa,GAAG;IAKL,MAAM,CAAC,cAAc,CAAC,MAAa,EAAC,UAAiB,EAAC,KAAY;QAErE,IAAG;YAEC,OAAO,IAAI,CAAC;SAEf;QACD,OAAM,GAAG,EACT;YACC,OAAO,KAAK,CAAC;SACb;gBACM;SAEN;IACL,CAAC;CAIJ;AAvBD,kBAuBC"}
